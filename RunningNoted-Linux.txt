@@ -24,4 +24,14 @@ Centos Installation steps
 16. mv			---- mvoing, renaming
 17. rm 			---- deleting , removing
 18. rmdir rm		---- deleding dir (with content)
- 
+19. cut			---- Commang output text processesto cut required filed
+20. more		---- Dispaly s comand out to page by page 
+21. less		---- Dispalys output page by page with scroll down up
+22. sort		---- sort data A-z assending order
+23. wc			---- word count Lines, words, letters
+24 chown		---- user ownership
+25. chgrp		---- group owner ship
+26. setfacl		---- set permissions to user and group protection
+27. getfacl		---- get permissions of files and dir
+28. tee			---- data prints output to terminal andredirect to files29.  |			---- pipe output make input 
+
