@@ -1,0 +1,27 @@
+Centos Installation steps
+
+1. http://centos.excellmedia.net/7.8.2003/isos/x86_64/
+
+1. uname -----system information
+2. who 
+3. whoa am i
+4. uptime -------------system starting from when
+5. last ------system reboot information --10seesion
+6. touch             	------ empty files      [hidden files touch .abc.txt]------> statrting with .(dot)
+7. cat 			-----  creating files with content <Ctrl+D> svae exit
+8. vi 			-----  vi texeditor        
+     [i -insert
+      hi heeleo
+      Esc (button)
+      :wq!
+9. mkdir 		---- creating multiple dir 
+10. mkdir -p 		---- creating subdirecotires
+11. ls 			----  listing content from directry,   -a, -l, t, r, R
+12. cd 			---- change directory 
+13. cd ..		---- changing parent dir from current location
+14. pwd			---- print working dir
+15. cp 			---- copy 
+16. mv			---- mvoing, renaming
+17. rm 			---- deleting , removing
+18. rmdir rm		---- deleding dir (with content)
+ 
